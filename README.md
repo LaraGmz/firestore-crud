@@ -22,6 +22,7 @@ Permite:
 
 ## Estructura del proyecto
 
+"""
 .
 ├── services/
 │ └── firebase.json # Clave del Service Account (IGNORADA en git)
@@ -36,6 +37,7 @@ Permite:
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+"""
 
 ## Instalación y ejecución
 
